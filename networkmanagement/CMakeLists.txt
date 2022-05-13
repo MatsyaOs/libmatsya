@@ -45,10 +45,10 @@ set(NETWORKMGR_SRCS
 find_package(KF5NetworkManagerQt REQUIRED)
 find_package(KF5ModemManagerQt REQUIRED)
 
-add_library(cutefishnm_qmlplugins SHARED ${NETWORKMGR_SRCS})
-generate_export_header(cutefishnm_qmlplugins EXPORT_FILE_NAME ${CMAKE_CURRENT_BINARY_DIR}/networkmanager_export.h BASE_NAME NetworkManager)
+add_library(matsyanm_qmlplugins SHARED ${NETWORKMGR_SRCS})
+generate_export_header(matsyanm_qmlplugins EXPORT_FILE_NAME ${CMAKE_CURRENT_BINARY_DIR}/networkmanager_export.h BASE_NAME NetworkManager)
 
-target_link_libraries (cutefishnm_qmlplugins
+target_link_libraries (matsyanm_qmlplugins
     Qt5::Core
     Qt5::Quick
     Qt5::Gui
@@ -58,5 +58,5 @@ target_link_libraries (cutefishnm_qmlplugins
     KF5::ModemManagerQt
 )
 
-install(TARGETS cutefishnm_qmlplugins DESTINATION ${INSTALL_QMLDIR}/Cutefish/NetworkManagement)
-install(FILES qmldir DESTINATION ${INSTALL_QMLDIR}/Cutefish/NetworkManagement)
+install(TARGETS matsyanm_qmlplugins DESTINATION ${INSTALL_QMLDIR}/Matsya/NetworkManagement)
+install(FILES qmldir DESTINATION ${INSTALL_QMLDIR}/Matsya/NetworkManagement)

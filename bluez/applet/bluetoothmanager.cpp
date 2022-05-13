@@ -136,7 +136,7 @@ void BluetoothManager::onInitJobResult(BluezQt::InitManagerJob *job)
 
     m_adapter = m_manager->usableAdapter();
     if (m_adapter) {
-        setName("CutefishOS");
+        setName("MatsyaOS");
 
         if (!m_adapter->isDiscoverable())
             m_adapter->startDiscovery();

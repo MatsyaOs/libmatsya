@@ -1,2 +1,2 @@
-module Cutefish.Mpris
-plugin cutefishmpris_qmlplugins
+module Matsya.Mpris
+plugin matsyampris_qmlplugins

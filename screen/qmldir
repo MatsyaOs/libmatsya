@@ -1,3 +1,3 @@
-module Cutefish.Screen
+module Matsya.Screen
 
-plugin cutefishscreen_qmlplugins
+plugin matsyascreen_qmlplugins

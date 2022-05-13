@@ -1,3 +1,3 @@
-module Cutefish.System
+module Matsya.System
 
-plugin cutefishsystem_qmlplugins
+plugin matsyasystem_qmlplugins

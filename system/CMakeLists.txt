@@ -6,14 +6,14 @@ set(SCREEN_SRCS
 
 find_package(Qt5 REQUIRED COMPONENTS DBus)
 
-add_library(cutefishsystem_qmlplugins SHARED ${SCREEN_SRCS})
+add_library(matsyasystem_qmlplugins SHARED ${SCREEN_SRCS})
 
-target_link_libraries (cutefishsystem_qmlplugins
+target_link_libraries (matsyasystem_qmlplugins
     Qt5::Core
     Qt5::Quick
     Qt5::Gui
     Qt5::DBus
 )
 
-install(TARGETS cutefishsystem_qmlplugins DESTINATION ${INSTALL_QMLDIR}/Cutefish/System)
-install(FILES qmldir DESTINATION ${INSTALL_QMLDIR}/Cutefish/System)
+install(TARGETS matsyasystem_qmlplugins DESTINATION ${INSTALL_QMLDIR}/Matsya/System)
+install(FILES qmldir DESTINATION ${INSTALL_QMLDIR}/Matsya/System)

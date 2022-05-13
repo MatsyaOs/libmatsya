@@ -20,14 +20,14 @@ qt5_add_dbus_interface(ACCOUNTS_SRCS
 
 # set_source_files_properties(${ACCOUNTS_SRCS} PROPERTIES SKIP_AUTOGEN ON)
 
-add_library(cutefishaccounts_qmlplugins SHARED ${ACCOUNTS_SRCS})
+add_library(matsyaaccounts_qmlplugins SHARED ${ACCOUNTS_SRCS})
 
-target_link_libraries (cutefishaccounts_qmlplugins
+target_link_libraries (matsyaaccounts_qmlplugins
     Qt5::Core
     Qt5::DBus
     Qt5::Quick
     Qt5::Gui
 )
 
-install(TARGETS cutefishaccounts_qmlplugins DESTINATION ${INSTALL_QMLDIR}/Cutefish/Accounts)
-install(FILES qmldir DESTINATION ${INSTALL_QMLDIR}/Cutefish/Accounts)
+install(TARGETS matsyaaccounts_qmlplugins DESTINATION ${INSTALL_QMLDIR}/Matsya/Accounts)
+install(FILES qmldir DESTINATION ${INSTALL_QMLDIR}/Matsya/Accounts)

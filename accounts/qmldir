@@ -1,2 +1,2 @@
-module Cutefish.Accounts
-plugin cutefishaccounts_qmlplugins
+module Matsya.Accounts
+plugin matsyaaccounts_qmlplugins

@@ -1,4 +1,4 @@
-add_definitions(-DTRANSLATION_DOMAIN=\"cutefish_pulseaudio\")
+add_definitions(-DTRANSLATION_DOMAIN=\"matsya_pulseaudio\")
 
 set(USE_GSETTINGS False)
 set(USE_GCONF False)
@@ -65,9 +65,9 @@ set_package_properties(SoundThemeFreedesktop PROPERTIES
 pkg_check_modules(LIBPULSE libpulse REQUIRED IMPORTED_TARGET)
 pkg_check_modules(LIBPULSE_MAINLOOP libpulse-mainloop-glib REQUIRED IMPORTED_TARGET)
 
-add_library(cutefishaudio_qmlplugins SHARED ${audio_SRCS})
+add_library(matsyaaudio_qmlplugins SHARED ${audio_SRCS})
 
-target_link_libraries(cutefishaudio_qmlplugins
+target_link_libraries(matsyaaudio_qmlplugins
     Qt5::Core
     Qt5::Qml
     Qt5::Gui
@@ -79,5 +79,5 @@ target_link_libraries(cutefishaudio_qmlplugins
     PkgConfig::LIBPULSE_MAINLOOP
 )
 
-install(TARGETS cutefishaudio_qmlplugins DESTINATION ${INSTALL_QMLDIR}/Cutefish/Audio)
-install(FILES ${qml_SRCS} DESTINATION ${INSTALL_QMLDIR}/Cutefish/Audio)
+install(TARGETS matsyaaudio_qmlplugins DESTINATION ${INSTALL_QMLDIR}/Matsya/Audio)
+install(FILES ${qml_SRCS} DESTINATION ${INSTALL_QMLDIR}/Matsya/Audio)

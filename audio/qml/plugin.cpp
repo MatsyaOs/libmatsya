@@ -38,7 +38,7 @@ static QJSValue pulseaudio_singleton(QQmlEngine *engine, QJSEngine *scriptEngine
 
 void Plugin::registerTypes(const char *uri)
 {
-    QPulseAudio::Context::setApplicationId(QStringLiteral("Cutefish.Audio"));
+    QPulseAudio::Context::setApplicationId(QStringLiteral("Matsya.Audio"));
 
     qmlRegisterType<SortFilterModel>(uri, 1, 0, "SortFilterModel");
 
