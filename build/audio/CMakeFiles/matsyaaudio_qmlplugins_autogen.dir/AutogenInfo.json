@@ -1,0 +1,308 @@
+{
+	"BUILD_DIR" : "/home/tokyo/Documents/GitHub/libmatsya/build/audio/matsyaaudio_qmlplugins_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tokyo/Documents/GitHub/libmatsya/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tokyo/Documents/GitHub/libmatsya/build/audio",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tokyo/Documents/GitHub/libmatsya/audio",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/tokyo/Documents/GitHub/libmatsya/audio/CMakeLists.txt",
+		"/home/tokyo/Documents/GitHub/libmatsya/audio/config.h.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPkgConfig.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageMessage.cmake",
+		"/home/tokyo/Documents/GitHub/libmatsya/cmake/FindCanberra.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPkgConfig.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageMessage.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageMessage.cmake",
+		"/usr/share/cmake-3.18/Modules/FeatureSummary.cmake",
+		"/home/tokyo/Documents/GitHub/libmatsya/cmake/FindCanberraPulse.cmake",
+		"/home/tokyo/Documents/GitHub/libmatsya/cmake/FindCanberra.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPkgConfig.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageMessage.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageMessage.cmake",
+		"/usr/share/cmake-3.18/Modules/FeatureSummary.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageMessage.cmake",
+		"/home/tokyo/Documents/GitHub/libmatsya/cmake/FindSoundThemeFreedesktop.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake",
+		"/usr/share/cmake-3.18/Modules/FindPackageMessage.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/tokyo/Documents/GitHub/libmatsya",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/canberracontext.h",
+			"MU",
+			"EWIEGA46WW/moc_canberracontext.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/card.h",
+			"MU",
+			"EWIEGA46WW/moc_card.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/client.h",
+			"MU",
+			"EWIEGA46WW/moc_client.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/context.h",
+			"MU",
+			"EWIEGA46WW/moc_context.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/debug.h",
+			"MU",
+			"EWIEGA46WW/moc_debug.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/device.h",
+			"MU",
+			"EWIEGA46WW/moc_device.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/maps.h",
+			"MU",
+			"EWIEGA46WW/moc_maps.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/model/sortfiltermodel.h",
+			"MU",
+			"NLOY5YBGEN/moc_sortfiltermodel.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/module.h",
+			"MU",
+			"EWIEGA46WW/moc_module.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/modulemanager.h",
+			"MU",
+			"EWIEGA46WW/moc_modulemanager.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/operation.h",
+			"MU",
+			"EWIEGA46WW/moc_operation.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/port.h",
+			"MU",
+			"EWIEGA46WW/moc_port.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/profile.h",
+			"MU",
+			"EWIEGA46WW/moc_profile.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/pulseaudio.h",
+			"MU",
+			"EWIEGA46WW/moc_pulseaudio.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/pulseobject.h",
+			"MU",
+			"EWIEGA46WW/moc_pulseobject.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/qml/listitemmenu.h",
+			"MU",
+			"CCBC4FUR7J/moc_listitemmenu.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/qml/plugin.h",
+			"MU",
+			"CCBC4FUR7J/moc_plugin.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/qml/volumefeedback.h",
+			"MU",
+			"CCBC4FUR7J/moc_volumefeedback.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/server.h",
+			"MU",
+			"EWIEGA46WW/moc_server.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/sink.h",
+			"MU",
+			"EWIEGA46WW/moc_sink.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/sinkinput.h",
+			"MU",
+			"EWIEGA46WW/moc_sinkinput.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/source.h",
+			"MU",
+			"EWIEGA46WW/moc_source.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/sourceoutput.h",
+			"MU",
+			"EWIEGA46WW/moc_sourceoutput.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/speakertest.h",
+			"MU",
+			"EWIEGA46WW/moc_speakertest.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/stream.h",
+			"MU",
+			"EWIEGA46WW/moc_stream.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/streamrestore.h",
+			"MU",
+			"EWIEGA46WW/moc_streamrestore.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/volumemonitor.h",
+			"MU",
+			"EWIEGA46WW/moc_volumemonitor.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/volumeobject.h",
+			"MU",
+			"EWIEGA46WW/moc_volumeobject.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/tokyo/Documents/GitHub/libmatsya/build/audio/matsyaaudio_qmlplugins_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/tokyo/Documents/GitHub/libmatsya/build/audio/matsyaaudio_qmlplugins_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_DBUS_LIB",
+		"QT_GUI_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_QMLMODELS_LIB",
+		"QT_QML_LIB",
+		"QT_QUICK_LIB",
+		"QT_WIDGETS_LIB",
+		"TRANSLATION_DOMAIN=\"matsya_pulseaudio\"",
+		"matsyaaudio_qmlplugins_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/tokyo/Documents/GitHub/libmatsya/build/audio",
+		"/home/tokyo/Documents/GitHub/libmatsya/audio",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQml",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtDBus",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQuick",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQmlModels",
+		"/usr/include/glib-2.0",
+		"/usr/lib/x86_64-linux-gnu/glib-2.0/include",
+		"/usr/include",
+		"/usr/include/c++/10",
+		"/usr/include/x86_64-linux-gnu/c++/10",
+		"/usr/include/c++/10/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/10/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/tokyo/Documents/GitHub/libmatsya/build/audio/matsyaaudio_qmlplugins_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/tokyo/Documents/GitHub/libmatsya/build/audio/CMakeFiles/matsyaaudio_qmlplugins_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/tokyo/Documents/GitHub/libmatsya/build/audio/CMakeFiles/matsyaaudio_qmlplugins_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/canberracontext.cpp",
+			"MU"
+		],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/card.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/client.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/context.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/debug.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/device.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/maps.cpp", "MU" ],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/model/sortfiltermodel.cpp",
+			"MU"
+		],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/module.cpp", "MU" ],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/modulemanager.cpp",
+			"MU"
+		],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/operation.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/port.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/profile.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/pulseaudio.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/pulseobject.cpp", "MU" ],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/qml/listitemmenu.cpp",
+			"MU"
+		],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/qml/plugin.cpp", "MU" ],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/qml/volumefeedback.cpp",
+			"MU"
+		],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/server.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/sink.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/sinkinput.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/source.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/sourceoutput.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/speakertest.cpp", "MU" ],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/stream.cpp", "MU" ],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/streamrestore.cpp",
+			"MU"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/audio/volumemonitor.cpp",
+			"MU"
+		],
+		[ "/home/tokyo/Documents/GitHub/libmatsya/audio/volumeobject.cpp", "MU" ]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}

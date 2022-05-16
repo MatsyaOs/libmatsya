@@ -1,0 +1,5 @@
+-I/home/tokyo/Documents/GitHub/libmatsya/accounts
+-I/home/tokyo/Documents/GitHub/libmatsya/build/accounts
+-o
+/home/tokyo/Documents/GitHub/libmatsya/build/accounts/user_interface.moc
+/home/tokyo/Documents/GitHub/libmatsya/build/accounts/user_interface.h

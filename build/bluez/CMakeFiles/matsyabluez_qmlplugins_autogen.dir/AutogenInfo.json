@@ -1,0 +1,184 @@
+{
+	"BUILD_DIR" : "/home/tokyo/Documents/GitHub/libmatsya/build/bluez/matsyabluez_qmlplugins_autogen",
+	"CMAKE_BINARY_DIR" : "/home/tokyo/Documents/GitHub/libmatsya/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/tokyo/Documents/GitHub/libmatsya/build/bluez",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/tokyo/Documents/GitHub/libmatsya/bluez",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/tokyo/Documents/GitHub/libmatsya/bluez/CMakeLists.txt",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5BluezQt/KF5BluezQtConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5BluezQt/KF5BluezQtConfig.cmake",
+		"/usr/share/cmake-3.18/Modules/CMakeFindDependencyMacro.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5BluezQt/KF5BluezQtTargets.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5BluezQt/KF5BluezQtTargets-debian.cmake",
+		"/usr/lib/x86_64-linux-gnu/cmake/KF5BluezQt/KF5BluezQtQchTargets.cmake"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/tokyo/Documents/GitHub/libmatsya",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/applet/bluetoothagent.h",
+			"MU",
+			"L7F4KWRS6Y/moc_bluetoothagent.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/applet/bluetoothmanager.h",
+			"MU",
+			"L7F4KWRS6Y/moc_bluetoothmanager.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/applet/devicesproxymodel.h",
+			"MU",
+			"L7F4KWRS6Y/moc_devicesproxymodel.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/bluezqtextensionplugin.h",
+			"MU",
+			"EWIEGA46WW/moc_bluezqtextensionplugin.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/declarativeadapter.h",
+			"MU",
+			"EWIEGA46WW/moc_declarativeadapter.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/declarativedevice.h",
+			"MU",
+			"EWIEGA46WW/moc_declarativedevice.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/declarativedevicesmodel.h",
+			"MU",
+			"EWIEGA46WW/moc_declarativedevicesmodel.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/declarativeinput.h",
+			"MU",
+			"EWIEGA46WW/moc_declarativeinput.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/declarativemanager.h",
+			"MU",
+			"EWIEGA46WW/moc_declarativemanager.cpp"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/declarativemediaplayer.h",
+			"MU",
+			"EWIEGA46WW/moc_declarativemediaplayer.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/tokyo/Documents/GitHub/libmatsya/build/bluez/matsyabluez_qmlplugins_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/tokyo/Documents/GitHub/libmatsya/build/bluez/matsyabluez_qmlplugins_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_DBUS_LIB",
+		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_QML_LIB",
+		"matsyabluez_qmlplugins_EXPORTS"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/tokyo/Documents/GitHub/libmatsya/build/bluez",
+		"/home/tokyo/Documents/GitHub/libmatsya/bluez",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtQml",
+		"/usr/include/x86_64-linux-gnu/qt5/QtNetwork",
+		"/usr/include/x86_64-linux-gnu/qt5/QtDBus",
+		"/usr/include/KF5/BluezQt",
+		"/usr/include/KF5",
+		"/usr/include/c++/10",
+		"/usr/include/x86_64-linux-gnu/c++/10",
+		"/usr/include/c++/10/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/10/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/tokyo/Documents/GitHub/libmatsya/build/bluez/matsyabluez_qmlplugins_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 2,
+	"PARSE_CACHE_FILE" : "/home/tokyo/Documents/GitHub/libmatsya/build/bluez/CMakeFiles/matsyabluez_qmlplugins_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "/usr/lib/qt5/bin/uic",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/tokyo/Documents/GitHub/libmatsya/build/bluez/CMakeFiles/matsyabluez_qmlplugins_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/applet/bluetoothagent.cpp",
+			"MU"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/applet/bluetoothmanager.cpp",
+			"MU"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/applet/devicesproxymodel.cpp",
+			"MU"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/bluezqtextensionplugin.cpp",
+			"MU"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/declarativeadapter.cpp",
+			"MU"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/declarativedevice.cpp",
+			"MU"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/declarativedevicesmodel.cpp",
+			"MU"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/declarativeinput.cpp",
+			"MU"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/declarativemanager.cpp",
+			"MU"
+		],
+		[
+			"/home/tokyo/Documents/GitHub/libmatsya/bluez/declarativemediaplayer.cpp",
+			"MU"
+		]
+	],
+	"UIC_OPTIONS" : [],
+	"UIC_SEARCH_PATHS" : [],
+	"UIC_SKIP" : [],
+	"UIC_UI_FILES" : [],
+	"VERBOSITY" : 0
+}
