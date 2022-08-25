@@ -1,0 +1,5 @@
+-I/home/tokyo/matsyaos/QT6/done/libmatsya/accounts
+-I/home/tokyo/matsyaos/QT6/done/libmatsya/build/accounts
+-o
+/home/tokyo/matsyaos/QT6/done/libmatsya/build/accounts/accounts_interface.moc
+/home/tokyo/matsyaos/QT6/done/libmatsya/build/accounts/accounts_interface.h

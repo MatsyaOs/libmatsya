@@ -1,0 +1,8 @@
+/home/tokyo/matsyaos/QT6/done/libmatsya/build-bluez-Desktop-Debug/CMakeFiles/matsyabluez_qmlplugins.dir
+/home/tokyo/matsyaos/QT6/done/libmatsya/build-bluez-Desktop-Debug/CMakeFiles/KF5BluezQt_QCH.dir
+/home/tokyo/matsyaos/QT6/done/libmatsya/build-bluez-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/tokyo/matsyaos/QT6/done/libmatsya/build-bluez-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/tokyo/matsyaos/QT6/done/libmatsya/build-bluez-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/tokyo/matsyaos/QT6/done/libmatsya/build-bluez-Desktop-Debug/CMakeFiles/install.dir
+/home/tokyo/matsyaos/QT6/done/libmatsya/build-bluez-Desktop-Debug/CMakeFiles/install/local.dir
+/home/tokyo/matsyaos/QT6/done/libmatsya/build-bluez-Desktop-Debug/CMakeFiles/install/strip.dir
